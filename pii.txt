@@ -1,0 +1,22 @@
+Note to Rover.com:
+
+Thank you for giving me the opportunity to work on this data set,
+I really enjoyed diving into it and picking it apart! I wanted to
+note a few things:
+
+1. Since the answers were given for Excersize 1, I wrote it as a
+unit-test and didn't include the results in the presentation. I 
+hope this is alright.
+
+2. I did a lot of extraneous work (error checking, experimenting with
+visualizations) that I didn't include in the final presentation so as 
+not to weigh down the results. I kept most of it in the source-code 
+(just commented out) to give some idea of my thought process.
+
+3. The presentation itself is a little more cluttered than I usually do,
+this is because I don't have the luxury of being there to present it, so
+I wanted to make sure everything I would have said out-loud was written
+down clearly. I hope this is ok!
+
+Thanks again,
+Toby Badman
